@@ -1,0 +1,26 @@
+{
+  "name": "truffle",
+  "version": "4.1.11",
+  "description": "truffle",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/**/*.spec.js"
+  },
+  "author": "durgaprasad",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "5.0.1"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "ethereumjs-testrpc": "^4.0.1",
+    "truffle": "^4.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ]
+}

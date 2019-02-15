@@ -1,0 +1,19 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "5.0.1"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.1.3",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.34"
+  }
+}
